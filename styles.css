@@ -1421,6 +1421,7 @@
   overflow-x: hidden;
 }
 .blog-card-con {
+  flex-grow: 1;
   width: 100%;
   background: #EDF8FF;
   border-radius: 20px;
